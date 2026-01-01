@@ -151,5 +151,6 @@ for `notmuch-address-from-minibuffer'."
 (provide 'notmuch-addr)
 ;; Local Variables:
 ;; indent-tabs-mode: nil
+;; lisp-indent-local-overrides: ((cond . 0) (interactive . 0))
 ;; End:
 ;;; notmuch-addr.el ends here
